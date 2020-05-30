@@ -13,6 +13,11 @@ export const products = [
     name: 'Phone Standard',
     price: 299,
     description: ''
+  },
+  {
+    name: 'Huawei P30',
+    price: 399,
+    description: 'Dual sim'
   }
 ];
 
